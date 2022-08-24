@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>1d7ff64f-1ada-45ca-9421-aacc08360a17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section/main/section/header/div[2]/div[2]/div/span/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.FlexBox-sc-1fvxqrs-0.kzLLYy.ant-dropdown-trigger.cursor-pointer > div.styled__AvatarContainer-sc-1h0d4x5-1.dIynsf > span.ant-avatar.ant-avatar-circle.ant-avatar-image.ant-avatar-icon.styled__StyledAvatar-sc-1h0d4x5-0.hCnCVz > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>946e9125-ab4d-4a43-98dc-8bea5453cf05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://storage.googleapis.com/cdn.sowat.dev/9328645b-dafa-4da5-a8ee-c900aef00ebc/profile/1658360449066_avatar.png</value>
+      <webElementGuid>6fa3be00-2bce-4a74-9a25-04b058bdd6e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;ant-layout styled__StyledLayout-sc-1u4f7m8-9 jJuvxK&quot;]/main[@class=&quot;ant-layout-content&quot;]/section[@class=&quot;ant-layout styled__StyledLayout-sc-1u4f7m8-9 jJuvxK&quot;]/header[@class=&quot;ant-layout-header styled__StyledHeader-sc-1n7paxp-0 ipOozf&quot;]/div[@class=&quot;FlexBox-sc-1fvxqrs-0 kNoGoh&quot;]/div[@class=&quot;FlexBox-sc-1fvxqrs-0 kzLLYy ant-dropdown-trigger cursor-pointer&quot;]/div[@class=&quot;styled__AvatarContainer-sc-1h0d4x5-1 dIynsf&quot;]/span[@class=&quot;ant-avatar ant-avatar-circle ant-avatar-image ant-avatar-icon styled__StyledAvatar-sc-1h0d4x5-0 hCnCVz&quot;]/img[1]</value>
+      <webElementGuid>6525aac6-ea02-4ed8-91d0-52d036481190</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/main/section/header/div[2]/div[2]/div/span/img</value>
+      <webElementGuid>883a84ab-6eab-464f-89ed-784b2e9140af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://storage.googleapis.com/cdn.sowat.dev/9328645b-dafa-4da5-a8ee-c900aef00ebc/profile/1658360449066_avatar.png')]</value>
+      <webElementGuid>e852b58a-d182-4da1-b95c-fc8783038763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span/img</value>
+      <webElementGuid>45429878-e389-4f93-b33e-cffd7f3a5c2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://storage.googleapis.com/cdn.sowat.dev/9328645b-dafa-4da5-a8ee-c900aef00ebc/profile/1658360449066_avatar.png']</value>
+      <webElementGuid>36f36263-260e-4367-a68e-82a7be793000</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
