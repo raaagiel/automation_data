@@ -44,7 +44,7 @@ WebUI.click(findTestObject('Object Repository/span_Masuk'))
 //WebUI.click(findTestObject('Object Repository/span_Buat Kelas'))
 nama_kelas = "Kelas"
 
-for (int i = 1; i < 11; i++) {
+for (int i = 40; i < 50; i++) {
 	
 	WebUI.click(findTestObject('Page_Classroom  GREDU/svg'))
 	

@@ -31,18 +31,32 @@ WebUI.click(findTestObject('Object Repository/Page_Classroom  GREDU/img'))
 
 WebUI.click(findTestObject('Object Repository/Page_Classroom  GREDU/svg'))
 
-for (int i=1;i<10;i++) {
-	
-	WebUI.setText(findTestObject('Page_Login  GREDU/input_atau_credential'), 'tuncayio.s.1.4@gmail.com')
-	
-	WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login  GREDU/input_atau_pin'), 'aeHFOx8jV/A=')
-	
-	WebUI.click(findTestObject('Object Repository/Page_Login  GREDU/span_Masuk'))
-	
-	WebUI.click(findTestObject('Object Repository/Page_Classroom  GREDU/img'))
-	
-	WebUI.click(findTestObject('Object Repository/Page_Classroom  GREDU/svg'))
-}
 
-WebUI.closeBrowser()
+WebUI.setText(findTestObject('Page_Login  GREDU/input_atau_credential'), 'tuncayio.s.1.4@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login  GREDU/input_atau_pin'), 'aeHFOx8jV/A=')
+
+WebUI.click(findTestObject('Object Repository/Page_Login  GREDU/span_Masuk'))
+
+WebUI.click(findTestObject('Object Repository/Page_Classroom  GREDU/img'))
+
+WebUI.click(findTestObject('Object Repository/Page_Classroom  GREDU/svg'))
+
+
+
+
+//for (int i=1;i<10;i++) {
+//	
+//	WebUI.setText(findTestObject('Page_Login  GREDU/input_atau_credential'), 'tuncayio.s.1.4@gmail.com')
+//	
+//	WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login  GREDU/input_atau_pin'), 'aeHFOx8jV/A=')
+//	
+//	WebUI.click(findTestObject('Object Repository/Page_Login  GREDU/span_Masuk'))
+//	
+//	WebUI.click(findTestObject('Object Repository/Page_Classroom  GREDU/img'))
+//	
+//	WebUI.click(findTestObject('Object Repository/Page_Classroom  GREDU/svg'))
+//}
+
+//WebUI.closeBrowser()
 

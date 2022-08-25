@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>berhasil</name>
+   <name>booking_test</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>4eba6ef8-7093-4bc7-bcfe-70feb32c795e</testCaseGuid>
+   <testCaseGuid>c449e32b-80cc-4154-8127-90576070e949</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>3f71413a-f055-48f8-8d69-f318ed897717</variableId>
+      <variableId>8828df41-5c2a-4883-b690-b142f44f63fe</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>4ede1e1f-50c7-424f-b83f-8d6510320934</variableId>
+      <variableId>032c59d8-6cf7-4c59-a518-c8bf18e4af3b</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>3f71413a-f055-48f8-8d69-f318ed897717</id>
+      <id>8828df41-5c2a-4883-b690-b142f44f63fe</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>4ede1e1f-50c7-424f-b83f-8d6510320934</id>
+      <id>032c59d8-6cf7-4c59-a518-c8bf18e4af3b</id>
       <masked>false</masked>
       <name>password</name>
    </variable>

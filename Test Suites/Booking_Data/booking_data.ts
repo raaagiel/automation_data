@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>booking_data</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>4dd293d8-b8e9-440b-ad37-31c277634939</testSuiteGuid>
+   <testCaseLink>
+      <guid>98f3869b-b5a2-4876-bc56-a4f0378a6f01</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Booking_Test/booking_test</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>73bd5b82-e35f-4b2c-9ad1-ed3e86ccf74d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_Booking/data_booking</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>73bd5b82-e35f-4b2c-9ad1-ed3e86ccf74d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>8828df41-5c2a-4883-b690-b142f44f63fe</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>73bd5b82-e35f-4b2c-9ad1-ed3e86ccf74d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>032c59d8-6cf7-4c59-a518-c8bf18e4af3b</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

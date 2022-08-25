@@ -19,11 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://gredu.sowat.dev/auth')
 
-WebUI.setText(findTestObject('Object Repository/input_atau_credential'), user_mail)
+WebUI.setText(findTestObject('Object Repository/input_atau_credential'), username)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/input_atau_pin'), password)
+WebUI.setText(findTestObject('Object Repository/input_atau_pin'), password)
 
 WebUI.click(findTestObject('Object Repository/span_Masuk'))
 

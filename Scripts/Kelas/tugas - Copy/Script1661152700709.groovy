@@ -48,7 +48,7 @@ WebUI.click(findTestObject('Object Repository/span_Detail Kelas'))
 //WebUI.click(findTestObject('Object Repository/span_Tugaskan'))
 judulTugas = 'PERTUGASAN'
 
-for (int i = 1; i < 5; i++) {
+for (int i = 1; i < 6; i++) {
     WebUI.click(findTestObject('span_Buat Baru'))
 
     WebUI.click(findTestObject('span_Buat Tugas'))
